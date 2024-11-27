@@ -2,7 +2,7 @@ def person(name,*data):
     print(name)
     print(data)
 
-person('ajit',33,'kuligan',9841149863)
+person('ajit',33,'kuligan',9841149863,'balasore')
 
 def person_with_dict(name, **data):
     print(name)
