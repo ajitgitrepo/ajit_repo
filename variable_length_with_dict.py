@@ -10,4 +10,4 @@ def person_with_dict(name, **data):
         print(i,j)
 
         
-person_with_dict('ajit',age=33, city='kuligan', mob=9841149863)
+person_with_dict('ajit',age=33, city='kuligan', mob=9841149863,Dist='Balasore')
