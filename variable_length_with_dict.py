@@ -11,4 +11,4 @@ def person_with_dict(name, **data):
 
         
 person_with_dict('ajit',age=33, city='kuligan', mob=9841149863,Dist='Balasore',state='odisha')
-person_with_dict('naitik',age=04, city='kuligan', mob=9841149865,Dist='Balasore',state='odisha')
+person_with_dict('naitik',age=04, city='kuligan', mob=9841149865,Dist='Balasore',village='kuligan')
